@@ -1,0 +1,13 @@
+com\example\BitespeedTask\BitespeedTaskApplication.class
+com\example\BitespeedTask\Model\Contact.class
+com\example\BitespeedTask\Model\LinkPrecedence.class
+com\example\BitespeedTask\Exception\ApplicationError.class
+com\example\BitespeedTask\Service\ContactService.class
+com\example\BitespeedTask\Controller\ErrorHandler.class
+com\example\BitespeedTask\Controller\ContactController.class
+com\example\BitespeedTask\Exception\PhoneNumberNotFoundException.class
+com\example\BitespeedTask\Model\Customer.class
+com\example\BitespeedTask\DTO\ContactResponse.class
+com\example\BitespeedTask\DTO\ContactRequest.class
+com\example\BitespeedTask\Exception\EmailNotFoundException.class
+com\example\BitespeedTask\Repository\ContactRepo.class
